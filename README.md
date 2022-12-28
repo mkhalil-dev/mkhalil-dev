@@ -4,11 +4,10 @@
 
 <p align="left" style="padding-left: 10px;"> <img src="https://komarev.com/ghpvc/?username=mkhalil-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mkhalil-dev" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React and more...**
+- ❤️ In love with Javascript. ReactJS, NodeJS
 
 - 📫 How to reach me **moekhalil70@gmail.com**
 
-- ⚡ Fun fact **Nothing about me is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
