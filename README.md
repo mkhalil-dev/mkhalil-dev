@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moe</h1>
 <h3 align="center">Deeeeeeev ☕</h3>
-<div align="center"><img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt=""></div>
 
 - 📫 How to reach me **moekhalil70@gmail.com**
 
