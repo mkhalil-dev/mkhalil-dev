@@ -2,8 +2,6 @@
 <h3 align="center">Deeeeeeev ☕</h3>
 <div align="center"><img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt=""></div>
 
-<p align="left" style="padding-left: 10px;"> <img src="https://komarev.com/ghpvc/?username=mkhalil-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mkhalil-dev" /> </p>
-
 - 📫 How to reach me **moekhalil70@gmail.com**
 
 
